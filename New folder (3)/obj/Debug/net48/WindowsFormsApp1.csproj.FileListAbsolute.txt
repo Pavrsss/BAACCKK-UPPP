@@ -1,0 +1,11 @@
+C:\Users\stoim\Desktop\New folder (3)\obj\Debug\net48\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\stoim\Desktop\New folder (3)\obj\Debug\net48\WindowsFormsApp1.Form1.resources
+C:\Users\stoim\Desktop\New folder (3)\obj\Debug\net48\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\stoim\Desktop\New folder (3)\obj\Debug\net48\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\stoim\Desktop\New folder (3)\obj\Debug\net48\WindowsFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoim\Desktop\New folder (3)\obj\Debug\net48\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\stoim\Desktop\New folder (3)\bin\Debug\net48\WindowsFormsApp1.exe.config
+C:\Users\stoim\Desktop\New folder (3)\bin\Debug\net48\WindowsFormsApp1.exe
+C:\Users\stoim\Desktop\New folder (3)\bin\Debug\net48\WindowsFormsApp1.pdb
+C:\Users\stoim\Desktop\New folder (3)\obj\Debug\net48\WindowsFormsApp1.exe
+C:\Users\stoim\Desktop\New folder (3)\obj\Debug\net48\WindowsFormsApp1.pdb
